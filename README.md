@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HariK77
 - 👀 I’m interested in ... Laravel, RESTful API, React and Vue.js
-- 🌱 I’m currently learning ...  React and Vue.js
+- 🌱 I’m currently working on ...  Laravel, React and Vue.js Projects
 - 💞️ I’m looking to collaborate on ... Laravel, React and Vue.js Projects
 - 📫 How to reach me ...
 
